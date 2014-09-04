@@ -1,0 +1,15 @@
+{
+  "name": "wdwne",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "srinivas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.8.7",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {}
+}
